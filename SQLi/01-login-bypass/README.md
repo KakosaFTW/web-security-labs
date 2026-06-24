@@ -63,7 +63,7 @@ Authentication systems are a common target for SQL injection attacks because suc
 
 ### Successful Authentication as Administrator
 
-![Administrator Account](assets/02-administrator-account.png)
+![Administrator Account](assets/Administrator%20Account.png)
 
 ---
 
